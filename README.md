@@ -1,4 +1,4 @@
-# mailbox.bot Print & Mail for Cursor
+# Postal mail printed, mailed, and tracked - mailbox.bot
 
 Mail a real letter from Cursor. Your agent prices it, previews it and submits it; mailbox.bot staff print, envelope and mail it by USPS or FedEx to US addresses.
 

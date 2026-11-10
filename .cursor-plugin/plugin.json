@@ -2,7 +2,7 @@
   "name": "mailbox-bot-print-and-mail",
   "displayName": "mailbox.bot Print & Mail",
   "version": "1.0.0",
-  "description": "Print and mail real letters from Cursor. Your agent prices, previews and submits letters and certified mail (USPS, FedEx) to US addresses, and mailbox.bot staff print and mail them. Connect by sign-in: you approve each live letter in your dashboard, and Sandbox mails and charges nothing.",
+  "description": "Print and mail real postal letters from Cursor. Your agent prices, previews and submits letters and certified mail (USPS, FedEx) to US addresses, and mailbox.bot staff print and mail them. Connect by sign-in: you approve each live letter in your dashboard, and Sandbox mails and charges nothing.",
   "author": {
     "name": "mailbox.bot",
     "email": "support@mailbox.bot"
